@@ -1888,3 +1888,8 @@ textarea.key_text {
   resize: none;
   border: none;
 }
+
+/**** To remove &nsbp; instead using CSS style padding to adjust left margin****/
+span.shift-right-by-40px {
+	padding-left: 40px;
+}
